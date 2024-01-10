@@ -1,0 +1,14 @@
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\bin\Debug\net6.0\ConAppTable1.exe
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\bin\Debug\net6.0\ConAppTable1.deps.json
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\bin\Debug\net6.0\ConAppTable1.runtimeconfig.json
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\bin\Debug\net6.0\ConAppTable1.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\bin\Debug\net6.0\ConAppTable1.pdb
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\obj\Debug\net6.0\ConAppTable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\obj\Debug\net6.0\ConAppTable1.AssemblyInfoInputs.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\obj\Debug\net6.0\ConAppTable1.AssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\obj\Debug\net6.0\ConAppTable1.csproj.CoreCompileInputs.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\obj\Debug\net6.0\ConAppTable1.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\obj\Debug\net6.0\refint\ConAppTable1.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\obj\Debug\net6.0\ConAppTable1.pdb
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\obj\Debug\net6.0\ConAppTable1.genruntimeconfig.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day4\ConAppTable1\ConAppTable1\obj\Debug\net6.0\ref\ConAppTable1.dll
